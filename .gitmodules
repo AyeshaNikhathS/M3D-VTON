@@ -1,0 +1,6 @@
+[submodule "2D-Human-Paring"]
+	path = 2D-Human-Paring
+	url = https://github.com/username/2D-Human-Parsing.git
+[submodule "MiDaS"]
+	path = MiDaS
+	url = https://github.com/username/MiDaS.git
